@@ -1,0 +1,83 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+*.eggs/
+build/
+dist/
+
+# ---- Virtual Environments ----
+venv/
+.env/
+.venv/
+env/
+ENV/
+*.venv
+
+# ---- Jupyter / Kaggle ----
+.ipynb_checkpoints/
+*.ipynb_save
+*.ipynb_temp
+
+# ---- IDE / Editors ----
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+*.bak
+
+# ---- System Files ----
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---- Logs ----
+*.log
+logs/
+nohup.out
+
+# ---- Cache / Temp ----
+.cache/
+*.tmp
+tmp/
+*.out
+
+# ---- Models / Data ----
+/data/
+/datasets/
+/models/
+/checkpoints/
+/weights/
+/outputs/
+/results/
+/images/
+
+# ---- Large files ----
+*.ckpt
+*.pt
+*.bin
+*.h5
+*.pkl
+*.onnx
+*.safetensors
+
+# ---- Configs ----
+config.json
+*.yaml
+*.yml
+
+# ---- Node / Web ----
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ---- Other ----
+*.sqlite3
+*.db
+*.csv
+*.parquet
