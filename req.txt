@@ -1,0 +1,8 @@
+streamlit
+google-generativeai
+pandas
+python-docx
+PyPDF2
+llama-parse
+python-dotenv
+openai
